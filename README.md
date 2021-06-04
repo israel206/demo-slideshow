@@ -36,8 +36,6 @@ This project was developed using the following technologies:
 
 ## 👨‍💻 Computer: How to run
 
-### Link da pagina <https://israel206.github.io/demo-slideshow/>
-
 Clone the project and access the folder
 
   ```bash
@@ -53,7 +51,7 @@ App to always remember to water your plants 🌱
 
 Demonstration project
 
-image slide demo
+image slide demo link page [demonstration](https://israel206.github.io/demo-slideshow/)
 
 ---
 
